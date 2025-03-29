@@ -1,1 +1,18 @@
 .vscode
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.env/
+
+# IDE配置
+.vscode/
+.idea/
+
+# 其他
+*.log
+.DS_Store 
